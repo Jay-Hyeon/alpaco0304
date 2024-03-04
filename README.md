@@ -14,4 +14,4 @@
 
 ## 7. 고찰: CNN으로는 0~9 이미지의 학습 성능이 잘 나왔지만 transform을 어떻게 주냐에 따라서 성능을 감소시키는 기법들이 뭐인지 리포트하고 싶었다.
 
-<img src="architecture.jpg" width="200" height="400"/>
+<img src="architecture.jpg" width="1000" height="400"/>
